@@ -1,0 +1,2 @@
+import { Concept } from "../DataStructures/Concept";
+export default function CreateTheComposition(json: any, ofTheConceptId?: number | null, ofTheConceptUserId?: number | null, mainKey?: number | null, userId?: number | null, accessId?: number | null, sessionInformationId?: number | null): Promise<Concept>;
