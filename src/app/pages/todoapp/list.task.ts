@@ -1,5 +1,3 @@
-// src/app/pages/example/list.example.ts
-
 import {  DeleteConceptById, GetCompositionListListener,  NORMAL } from "mftsccs-browser";
 import { StatefulWidget } from "../../default/StatefulWidget";
 import { getLocalUserId } from "../user/login.service";

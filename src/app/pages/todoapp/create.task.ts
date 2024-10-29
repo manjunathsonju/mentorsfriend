@@ -1,5 +1,3 @@
-// src/app/pages/example/create.example.ts
-
 import { CreateTheConnectionLocal, LocalSyncData, MakeTheInstanceConceptLocal, PatcherStructure, PRIVATE, UpdateComposition } from "mftsccs-browser";
 import { StatefulWidget } from "../../default/StatefulWidget";
 import  './task.style.css';
